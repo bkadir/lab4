@@ -1,6 +1,6 @@
-#Map Design and Tiles Generation
+# Map Design and Tiles Generation
 
-# You can access the web map [here](index.html).
+#### You can access the web map [here](index.html).
 
 ## Screenshots of Layers
 
