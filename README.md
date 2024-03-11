@@ -1,6 +1,6 @@
 # Map Design and Tiles Generation
 
-#### You can access the web map [here](https://github.com/bkadir/lab4/blob/90b9a9bac49ea2e10d41d2055ffe47f1dc74c38c/index.html).
+#### You can access the web map [here](http://127.0.0.1:5500/index.html).
 
 ## Screenshots of Layers
 
